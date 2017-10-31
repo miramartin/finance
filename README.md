@@ -2,7 +2,7 @@
 
 a library for financial modelling in Ruby.
 
-I have used this project for my Business Department. It helped me a lot to understand the issue related to <a href="https://www.sirsol.com/">Finance Consulting Firm</a
+I have used this project for my Business Department. It helped me a lot to understand the issue related to <a href="https://www.sirsol.com/">Finance Consulting Firm</a>
     
 ## INSTALL
 
